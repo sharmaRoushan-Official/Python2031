@@ -1,0 +1,96 @@
+Python:-
+-----------------------------------------------------
+Python:- Python is a general Purpose, High Level, Interpreted Language with easy syntax and dynamic initialized.
+
+------------------------------------------------------------------
+General Purpose,
+high level: These language can easily understandable by Human.
+Low Level:-  These language can easily understandable by machine.
+
+Interpreted:- It translate your code line by line:- Python, Go, Ruby on rails etc.
+
+Compiler:-  It translate your code at once. C, C++, 
+
+
+var int a;
+a = "10"
+
+
+a= "20"
+
+------------------------------------------------------------------------------
+
+Python Course:-
+
+Data Science
+Web Development
+Machine Learning
+Data Analyst
+Deep Learning
+AI- [Artificial Intelligence]
+NLP
+OpenCV
+Hacking, IoT
+Mixed Reality
+Virtual Reality
+Automation
+Cyber Security
+Testing- [Selenium]
+
+framework
+
+Django - Full stack [API - restFramework]
+Flask - [API]
+Botlle
+Web2Py
+CherryPy
+Dash
+falcon
+Morepath
+Pynic
+etc.
+-----------------------------------------------------------------------------------------
+Course:
+----------------------------------------------------------
+1.Python Basic
+2.Python Datatypes
+3.String
+4.List
+5.Tuple
+6.Set
+7.Dictionary
+8.Condition(if,elif,else)
+9.Loop :
+	For Loop
+	While Loop
+Control:
+	break and continue
+10.Function:
+	1.Built-in function
+	2. User-defunction
+11.Exception Handling
+	>> [Try,except,else,finally]
+12.Class and Object:
+	4-Pillars of OOPs
+	---------------------------
+	1.Inheritance:
+		1.Single Inheritance[Simple]
+		2.Multlevel Inheritance
+		3.Multiple Inheritance
+		4.Hierarchical Inheritance
+		5.Hybird Inheritance
+	2. Polymorphism
+	3. Encapsulation
+	4. Data Abstraction
+13.Lambda function
+14.List Comprehensions
+15.File Handling
+	>> 1.Reading files in Python
+	>> 2. Writing Files in Python
+16. Decorator in Python [Validation, Verfication]
+17. Generator
+18. API - [Application Programming Interface]
+------------------------------------------------------------------------------------------
+
+
+
